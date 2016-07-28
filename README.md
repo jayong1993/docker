@@ -1,2 +1,2 @@
 # docker
-this is a demo for docker pull
+Demo for a full CD pipeline with git, jenkins, docker, mesos
