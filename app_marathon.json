@@ -1,0 +1,15 @@
+{
+    "id": "app", 
+    "container": {
+      "docker": {
+        "image": "lane/nodejs_app",
+        "network": "BRIDGE",
+        "portMappings": [
+          {"containerPort": 8000, "servicePort": 8000}
+        ]
+      }
+    },
+    "cpus": 1,
+    "mem": 512.0,
+    "instances": 1
+}
