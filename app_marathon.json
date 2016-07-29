@@ -1,6 +1,6 @@
 
 {
-  "id": "nodeapp",
+  "id": "nodejs_app",
   "cmd": null,
   "cpus": 1,
   "mem": 512,
