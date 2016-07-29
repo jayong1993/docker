@@ -26,5 +26,10 @@
       "forcePullImage": false
     }
   },
-  "env": {}
+  "env": {},
+  "labels": {},
+  "healthChecks": [],
+  "acceptedResourceRoles": [
+    "slave_public"
+  ]
 }
